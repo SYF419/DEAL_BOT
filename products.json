@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Bose QuietComfort 45 Headphones",
+    "price": "$299",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/xyz.jpg",
+    "link": "https://amzn.to/youraffiliatecode",
+    "description": "Noise-cancelling, 24hr battery life, wireless."
+  },
+  {
+    "title": "Instant Pot Duo 7-in-1",
+    "price": "$89.99",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/abc.jpg",
+    "link": "https://amzn.to/youraffiliatecode",
+    "description": "Pressure cooker, rice cooker, and more."
+  }
+]
